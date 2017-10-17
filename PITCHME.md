@@ -20,7 +20,7 @@
 |x|SW0|
 |y|LEDR0|
 
----?code=./src/not_gate.v
+---?code=src/not_gate.v
 
 ---
 
