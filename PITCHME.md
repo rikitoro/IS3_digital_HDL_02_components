@@ -14,12 +14,13 @@
 動作を確かめましょう。
 
 ポートの割り当ては下記の表の通りにしてください。
+
 |node name|I/Oデバイス|
 |:---|:---|
 |x|SW0|
 |y|LEDR0|
 
----?code=./assets/not_gate
+---?code=./src/not_gate.v
 
 ---
 
