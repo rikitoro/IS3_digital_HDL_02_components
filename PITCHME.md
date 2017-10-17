@@ -20,7 +20,7 @@
 |x|SW0|
 |y|LEDR0|
 
----?code=src/not_gate.v
+---?gist=190a979a7a77b7f30fc4b65c14562a30
 
 ---
 
