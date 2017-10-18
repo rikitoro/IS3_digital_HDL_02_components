@@ -154,7 +154,7 @@ endmodule
 ```
 
 ---
-## ビット演算 bitwise operation
+## 加減算回路
 
 verilog HDLでは加算器、減算器も簡単に記述することができます。
 
@@ -170,7 +170,7 @@ verilog HDLでは加算器、減算器も簡単に記述することができま
 |y[4:0]|LEDR4-0|
 
 ---
-### 加算器
+### 4bit加算器
 
 ```verilog
 `default_nettype none
@@ -187,7 +187,7 @@ endmodule
 ```
 
 ---
-### 減算器
+### 4bit減算器
 
 ```verilog
 `default_nettype none
