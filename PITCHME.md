@@ -192,7 +192,7 @@ endmodule
 ```verilog
 `default_nettype none
 
-module adder(
+module subtractor(
   input wire [3:0] x0,
   input wire [3:0] x1,
   output wire [4:0] y
